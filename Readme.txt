@@ -5,7 +5,6 @@ personal-9894.md
 # Targets Windows & Unix temporary files
 ~$*
 *~
-
 # OS generated files #
 ######################
 .DS_Store
