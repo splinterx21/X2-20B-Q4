@@ -13,6 +13,5 @@ personal-9894.md
 .Trashes
 ehthumbs.db
 Thumbs.db
-
 # Sublime Files
 .sublime
