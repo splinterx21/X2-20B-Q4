@@ -7,7 +7,7 @@ personal-9894.md
 # OS generated files #
 ##############
 .DS_Store
-.DS_Store?
+.DS_Store ?
 ._*
 .Spotlight-V100
 .Trashes
