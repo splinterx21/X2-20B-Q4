@@ -9,7 +9,7 @@ personal-9894.md
 .DS_Store
 .DS_Store?
 ._*
-.Spotlight-V100
+.Spotlight-V110
 .Trashes
 ehthumbs.db
 Thumbs.db
